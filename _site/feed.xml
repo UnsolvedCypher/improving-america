@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>A blog about lorem ipsum dolor sit amet</description>
+    <link>http://localhost:3000/</link>
+    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 28 Sep 2015 23:54:13 -0400</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2015 23:54:13 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Issue Name</title>
+        <description>&lt;h1 id=&quot;main-issue-point&quot;&gt;Main Issue Point&lt;/h1&gt;
+
+&lt;p&gt;Some text&lt;/p&gt;
+
+&lt;h2 id=&quot;issue-sub-point&quot;&gt;Issue Sub-point&lt;/h2&gt;
+
+&lt;p&gt;Even more text&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 -0456</pubDate>
+        <link>http://localhost:3000/issuename/</link>
+        <guid isPermaLink="true">http://localhost:3000/issuename/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Education</title>
+        <description>&lt;h1 id=&quot;k-12&quot;&gt;K-12&lt;/h1&gt; &lt;h2 id=&quot;funding&quot;&gt;Funding&lt;/h2&gt; &lt;p&gt;The problem at the core of our failing public school system is funding. Currently, schools are funded locally, not federally. Because of this, poorer areas cannot afford to provide a quality education to their youth, and this pertpetuates a cycle of poverty - if the youth aren’t well-educated, they are much less likely to get a job. To combat this issue, schools should be federally funded based on the number of students - this way, all areas would have an equal chance, and poorer areas could be lifted out of poverty and provided a good school...</description>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 -0456</pubDate>
+        <link>http://localhost:3000/education/</link>
+        <guid isPermaLink="true">http://localhost:3000/education/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
