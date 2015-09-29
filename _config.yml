@@ -1,7 +1,7 @@
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site 
+baseurl: "/improving-america/" # the subpath of your site, e.g. /blog/
+url: "http://unsolvedcypher.github.io/improving-america" # the base hostname & protocol for your site 
 
 # User settings
 username: Improving America
