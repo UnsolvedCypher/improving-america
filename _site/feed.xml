@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>A blog about lorem ipsum dolor sit amet</description>
-    <link>http://localhost:3000/</link>
-    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Sep 2015 23:54:13 -0400</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2015 23:54:13 -0400</lastBuildDate>
+    <link>http://unsolvedcypher.github.io/improving-america/improving-america//</link>
+    <atom:link href="http://unsolvedcypher.github.io/improving-america/improving-america//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Sep 2015 00:14:29 -0400</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2015 00:14:29 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -20,8 +20,8 @@
 &lt;p&gt;Even more text&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 0001 00:00:00 -0456</pubDate>
-        <link>http://localhost:3000/issuename/</link>
-        <guid isPermaLink="true">http://localhost:3000/issuename/</guid>
+        <link>http://unsolvedcypher.github.io/improving-america/improving-america//issuename/</link>
+        <guid isPermaLink="true">http://unsolvedcypher.github.io/improving-america/improving-america//issuename/</guid>
         
         
       </item>
@@ -30,8 +30,8 @@
         <title>Education</title>
         <description>&lt;h1 id=&quot;k-12&quot;&gt;K-12&lt;/h1&gt; &lt;h2 id=&quot;funding&quot;&gt;Funding&lt;/h2&gt; &lt;p&gt;The problem at the core of our failing public school system is funding. Currently, schools are funded locally, not federally. Because of this, poorer areas cannot afford to provide a quality education to their youth, and this pertpetuates a cycle of poverty - if the youth aren’t well-educated, they are much less likely to get a job. To combat this issue, schools should be federally funded based on the number of students - this way, all areas would have an equal chance, and poorer areas could be lifted out of poverty and provided a good school...</description>
         <pubDate>Mon, 01 Jan 0001 00:00:00 -0456</pubDate>
-        <link>http://localhost:3000/education/</link>
-        <guid isPermaLink="true">http://localhost:3000/education/</guid>
+        <link>http://unsolvedcypher.github.io/improving-america/improving-america//education/</link>
+        <guid isPermaLink="true">http://unsolvedcypher.github.io/improving-america/improving-america//education/</guid>
         
         
       </item>
