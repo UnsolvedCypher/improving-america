@@ -5,12 +5,32 @@
     <description>A blog about lorem ipsum dolor sit amet</description>
     <link>http://unsolvedcypher.github.io/improving-america/improving-america//</link>
     <atom:link href="http://unsolvedcypher.github.io/improving-america/improving-america//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Sep 2015 00:14:29 -0400</pubDate>
-    <lastBuildDate>Tue, 29 Sep 2015 00:14:29 -0400</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2015 18:01:24 -0400</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2015 18:01:24 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Issue Name</title>
+        <title>Voting and the Electoral System</title>
+        <description>&lt;h1 id=&quot;making-voting-easy-for-all&quot;&gt;Making Voting Easy for All&lt;/h1&gt; &lt;p&gt;Our democracy relies on everyone voicing their opinion on how our country should be run. Until everyone gets a fair chance to be informed and vote, we will not have a true democracy.&lt;/p&gt; &lt;h2 id=&quot;automatic-voter-registration&quot;&gt;Automatic Voter Registration&lt;/h2&gt; &lt;p&gt;Our current system forces voters to register to vote well in advance, and has many deadlines that if not followed, could result in the potential voter being ineligible to vote. If all eligible voters were automatically registered (generally this would be upon turning 18), the proccess would be greatly simplified and an unnecessary step removed.&lt;/p&gt; &lt;h2 id=&quot;voting-by-mail&quot;&gt;Voting...</description>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 -0456</pubDate>
+        <link>http://unsolvedcypher.github.io/improving-america/improving-america//voting/</link>
+        <guid isPermaLink="true">http://unsolvedcypher.github.io/improving-america/improving-america//voting/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Taxes</title>
+        <description>&lt;p&gt;To sustain our society, we have to tax our citizens. However, it’s important to tax everyone fairly and equally without loopholes.&lt;/p&gt; &lt;h1 id=&quot;simple-progressive-taxes&quot;&gt;Simple Progressive Taxes&lt;/h1&gt; &lt;p&gt;Although our country uses progressive taxes already, they are now extremely convoluted due to all the changes that have been made over time. There are countless tax credits that are allowed, and some sources of income are taxed differently than others. To bring us back to a simpler system and level the playing field for all, all income should be taxed the same way in a pregressive tax system that is tied to inflation (so...</description>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 -0456</pubDate>
+        <link>http://unsolvedcypher.github.io/improving-america/improving-america//issuename/</link>
+        <guid isPermaLink="true">http://unsolvedcypher.github.io/improving-america/improving-america//issuename/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Substance Use</title>
         <description>&lt;h1 id=&quot;main-issue-point&quot;&gt;Main Issue Point&lt;/h1&gt;
 
 &lt;p&gt;Some text&lt;/p&gt;
@@ -20,8 +40,59 @@
 &lt;p&gt;Even more text&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 0001 00:00:00 -0456</pubDate>
-        <link>http://unsolvedcypher.github.io/improving-america/improving-america//issuename/</link>
-        <guid isPermaLink="true">http://unsolvedcypher.github.io/improving-america/improving-america//issuename/</guid>
+        <link>http://unsolvedcypher.github.io/improving-america/improving-america//substance-use/</link>
+        <guid isPermaLink="true">http://unsolvedcypher.github.io/improving-america/improving-america//substance-use/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Justice System</title>
+        <description>&lt;h1 id=&quot;main-issue-point&quot;&gt;Main Issue Point&lt;/h1&gt;
+
+&lt;p&gt;Some text&lt;/p&gt;
+
+&lt;h2 id=&quot;issue-sub-point&quot;&gt;Issue Sub-point&lt;/h2&gt;
+
+&lt;p&gt;Even more text&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 -0456</pubDate>
+        <link>http://unsolvedcypher.github.io/improving-america/improving-america//justice-system/</link>
+        <guid isPermaLink="true">http://unsolvedcypher.github.io/improving-america/improving-america//justice-system/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Foreign Aid</title>
+        <description>&lt;h1 id=&quot;main-issue-point&quot;&gt;Main Issue Point&lt;/h1&gt;
+
+&lt;p&gt;Some text&lt;/p&gt;
+
+&lt;h2 id=&quot;issue-sub-point&quot;&gt;Issue Sub-point&lt;/h2&gt;
+
+&lt;p&gt;Even more text&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 -0456</pubDate>
+        <link>http://unsolvedcypher.github.io/improving-america/improving-america//foreign-aid/</link>
+        <guid isPermaLink="true">http://unsolvedcypher.github.io/improving-america/improving-america//foreign-aid/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Environment</title>
+        <description>&lt;h1 id=&quot;main-issue-point&quot;&gt;Main Issue Point&lt;/h1&gt;
+
+&lt;p&gt;Some text&lt;/p&gt;
+
+&lt;h2 id=&quot;issue-sub-point&quot;&gt;Issue Sub-point&lt;/h2&gt;
+
+&lt;p&gt;Even more text&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 -0456</pubDate>
+        <link>http://unsolvedcypher.github.io/improving-america/improving-america//environment/</link>
+        <guid isPermaLink="true">http://unsolvedcypher.github.io/improving-america/improving-america//environment/</guid>
         
         
       </item>

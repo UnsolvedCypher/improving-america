@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Education"
-date: 0001-01-01
 permalink: "/education/"
-description: 'Reforming our education system, from K-12 to higher education'
+description: 'Providing everyone the opportunity to learn and succeed'
 ---
 
 K-12

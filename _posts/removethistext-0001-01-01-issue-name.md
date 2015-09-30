@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Issue Name"
-date: 0001-01-01
 permalink: "/issuename/"
 description: 'Put your description here.'
 ---
