@@ -1,0 +1,20 @@
+.issues-button {
+    color: blueviolet;
+    background: rgb(181, 181, 181);
+    border: none;
+    padding: 20px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+    display: table;
+    margin: 0 auto;
+}
+.issues-button:hover {
+    color: blueviolet;
+    background: rgb(145, 145, 145);
+    border: none;
+    padding: 20px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+}
