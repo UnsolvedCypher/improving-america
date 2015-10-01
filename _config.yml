@@ -1,11 +1,11 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/improving-america/" # the subpath of your site, e.g. /blog/
+description: A commonsense platform to help solve America's problems
+baseurl: "/improving-america" # the subpath of your site, e.g. /blog/
 url: "http://unsolvedcypher.github.io/improving-america" # the base hostname & protocol for your site 
 
 # User settings
 username: Improving America
-user_description: Anon Developer at Lorem Ipsum Dolor
+user_description: A concerned group of citizens hoping to improve America
 user_title: A commonsense platform to help solve America's problems
 email: americanimprovement@matthewmcmillan.me
 twitter_username: UnsolvedCypher
