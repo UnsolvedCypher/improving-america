@@ -64,3 +64,34 @@ Stefan's Second Proposal
 ### Immigration
 - Building a wall or adding security is expensive and doesn't fix the underlying problem. We need to think of ways to help Mexico be a safer place
 - Take in Syrian refugees - educated professionals
+
+Stefan's Third Proposal
+-----------------------
+
+### Military
+- Although we disagree with the size of the U.S. Army, We must remember that the army is a means of teaching discipline and creates opportunity for millions of people
+- Complete gener equality in the military. This means requiring women to register for slective service and opening all posts to women. Testing standards will not be changed.
+
+### Gun Control
+- Background checks required for all purchases
+- Create an online ATF-administered registered gun database. This will help stop gun trafficking by letting the ATF track gun purchases as well as stolen guns
+
+### Health Care
+- Limit "intense care" Medicare payouts to nursing homes, which often abuse the system
+
+### Currency
+- Investigate switching to plastic bills, which are far more durable than paper bills and save money in the long term
+- Stop minting pennies or find a way to make minting coins cheaper
+
+### Native Americans
+- We must not forget about Native Americans and what we have done to them in the past
+- We must find ways to provide good education to Native Americans
+- We must fight alcoholism, disease, and poverty on reservations
+
+### Criminal Justice
+- Provide education - books, volunteer teaching programs, internet access to prisoners
+- Provide gym equipment and cycling classes to prisoners: exercise teaches discipline, has many health benefits. We are not doing enough
+- We must understand that many people in the criminal justice system are not innately bad people. Everyone must be given a second chance, and we must help them become a part of society and lower recidivism
+- Figure out how to prevent radicalization of non-violent offenders in prison
+- Better handling of criminal records: once someone has served their time in jail, they should be equal in society and have equal opportunity
+- Enforce voting rights of felons. States should not be allowed to take away their voting rights
