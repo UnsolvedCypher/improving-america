@@ -95,3 +95,12 @@ Stefan's Third Proposal
 - Figure out how to prevent radicalization of non-violent offenders in prison
 - Better handling of criminal records: once someone has served their time in jail, they should be equal in society and have equal opportunity
 - Enforce voting rights of felons. States should not be allowed to take away their voting rights
+
+Stefan's Fourth Proposal
+------------------------
+
+### Criminal Justice
+- Implement policies to limit the use of arbitration, or to make arbitration more fair. Currently corporations are turning to arbitration to win legal battles unfairly. This is a serious violation of justice.
+
+### Education
+- Police Officers ("resource officers") should not be in schools. This creates a "fast-track" to prison for many people, especially African-American children, and breeds mistrust. Officers should only be used in extreme cases.
