@@ -101,6 +101,7 @@ Stefan's Fourth Proposal
 
 ### Criminal Justice
 - Implement policies to limit the use of arbitration, or to make arbitration more fair. Currently corporations are turning to arbitration to win legal battles unfairly. This is a serious violation of justice.
+- Legalize (or at least decriminalize) prostitution and introduce common-sense regulation to ensure prostitutes are the safety and health of prostitutes as well as clients. We must destigmatize prostitutes and recognize most of them are desparate people who are out of options.
 
 ### Education
 - Police Officers ("resource officers") should not be in schools. This creates a "fast-track" to prison for many people, especially African-American children, and breeds mistrust. Officers should only be used in extreme cases.
