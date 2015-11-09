@@ -102,6 +102,8 @@ Stefan's Fourth Proposal
 ### Criminal Justice
 - Implement policies to limit the use of arbitration, or to make arbitration more fair. Currently corporations are turning to arbitration to win legal battles unfairly. This is a serious violation of justice.
 - Legalize (or at least decriminalize) prostitution and introduce common-sense regulation to ensure prostitutes are the safety and health of prostitutes as well as clients. We must destigmatize prostitutes and recognize most of them are desparate people who are out of options.
+- Outlaw pay-to-stay charges at jails and prisons at all levels of government. These practices punish the poorest members of society and makes it even more difficult for ex-felons to rejoin society. In most cases it also doesn't even raise that much money either. [article](http://www.bbc.com/news/magazine-34705968)
+- Raise the age for people to be tried as juveniles to at least twenty for nonserious crimes (this requires further research) [article](http://ctmirror.org/2015/11/06/malloy-raise-the-age-for-juvenile-justice-system-to-20/)
 
 ### Education
 - Police Officers ("resource officers") should not be in schools. This creates a "fast-track" to prison for many people, especially African-American children, and breeds mistrust. Officers should only be used in extreme cases.
