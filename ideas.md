@@ -106,4 +106,8 @@ Stefan's Fourth Proposal
 - Raise the age for people to be tried as juveniles to at least twenty for nonserious crimes (this requires further research) [article](http://ctmirror.org/2015/11/06/malloy-raise-the-age-for-juvenile-justice-system-to-20/)
 
 ### Education
-- Police Officers ("resource officers") should not be in schools. This creates a "fast-track" to prison for many people, especially African-American children, and breeds mistrust. Officers should only be used in extreme cases.
+- Police Officers ("resource officers") should not be in schools. This creates a "fast-track" to prison for many people, especially African-American children, and breeds mistrust. Officers should only be used in extreme cases
+
+### Poverty
+- Reference: Low voter turnout among poor and people who benefit from federal/state aid programs [article](http://www.nytimes.com/2015/11/22/opinion/sunday/who-turned-my-blue-state-red.html?smid=fb-nytimes&smtyp=cur&_r=0)
+- Reference: Food stamp fraud [article](http://www.nytimes.com/2013/12/19/us/food-stamp-fraud-in-the-underground-economy.html)
