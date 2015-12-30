@@ -107,6 +107,7 @@ Stefan's Fourth Proposal
 
 ### Education
 - Police Officers ("resource officers") should not be in schools. This creates a "fast-track" to prison for many people, especially African-American children, and breeds mistrust. Officers should only be used in extreme cases
+- Ban corporal punishment in schools. Corporal punishment promotes violence in society and is very damaging and disruptive to learning environments. It is damaging to physical and mental health and leaves students far worse off than before. We should look into ways of promoting Restorative Justice instead.
 
 ### Poverty
 - Reference: Low voter turnout among poor and people who benefit from federal/state aid programs [article](http://www.nytimes.com/2015/11/22/opinion/sunday/who-turned-my-blue-state-red.html?smid=fb-nytimes&smtyp=cur&_r=0)
