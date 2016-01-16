@@ -82,7 +82,7 @@ Stefan's Third Proposal
 ### Currency
 - Investigate switching to plastic bills, which are far more durable than paper bills and save money in the long term
 - Stop minting pennies or find a way to make minting coins cheaper
-
+a
 ### Native Americans
 - We must not forget about Native Americans and what we have done to them in the past
 - We must find ways to provide good education to Native Americans
@@ -113,3 +113,13 @@ Stefan's Fourth Proposal
 ### Poverty
 - Reference: Low voter turnout among poor and people who benefit from federal/state aid programs [article](http://www.nytimes.com/2015/11/22/opinion/sunday/who-turned-my-blue-state-red.html?smid=fb-nytimes&smtyp=cur&_r=0)
 - Reference: Food stamp fraud [article](http://www.nytimes.com/2013/12/19/us/food-stamp-fraud-in-the-underground-economy.html)
+
+### Obesity
+- Consider requiring health warnings on beverages that contain added sweeteners. This may help reduce obesity by reducing consumption of high-sugar, high-calorie drinks.
+
+### Economy
+- We favor using the GPI, the [Genuine Progress Indicator](https://en.wikipedia.org/wiki/Genuine_progress_indicator), over GDP as a measure of our economy's and country's health. The GPI takes into account environmental damage and social costs in the final value for a country's economic production, giving a better measure of progress.
+
+### Reproductive Rights
+- Subsidize birth control methods. Families of all incomes have the right to choose when to have children and how many children they want. Access to affordable birth control is also one of the best tools for fighting poverty and empowering women, many of whom are dragged into poverty as a result of having children.
+- Although women fulfill a truly essential role in our society, bearing the next generation of Americans, they are often punished for their hard work. Having children hurts a woman's career and is very expensive in terms of money, time, and energy. A tax break or child support fee paid out to pregnant women and mothers of underage children would help thank women for their hard work and at the same time make edducation and child care more affordable.
