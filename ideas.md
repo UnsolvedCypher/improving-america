@@ -123,3 +123,8 @@ Stefan's Fourth Proposal
 ### Reproductive Rights
 - Subsidize birth control methods. Families of all incomes have the right to choose when to have children and how many children they want. Access to affordable birth control is also one of the best tools for fighting poverty and empowering women, many of whom are dragged into poverty as a result of having children.
 - Although women fulfill a truly essential role in our society, bearing the next generation of Americans, they are often punished for their hard work. Having children hurts a woman's career and is very expensive in terms of money, time, and energy. A tax break or child support fee paid out to pregnant women and mothers of underage children would help thank women for their hard work and at the same time make edducation and child care more affordable.
+
+### Environment
+- Impose a significant plastic bottle deposit or tax to limit the use of plastic bottles, which cause devastating pollution. Funds raised from this program can be used to fund environmental research and protection.
+- Impose a significant plastic bag tax (greater than $0.10 and up to $0.25 per bag) to incentivize the use of eco-friendly, re-usable shopping bags. Funds raised from this program can be used to fund environmental research and protection.
+- Look into ecoagriculture and laws implemented by California to combat drought
