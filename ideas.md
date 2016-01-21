@@ -127,4 +127,8 @@ Stefan's Fourth Proposal
 ### Environment
 - Impose a significant plastic bottle deposit or tax to limit the use of plastic bottles, which cause devastating pollution. Funds raised from this program can be used to fund environmental research and protection.
 - Impose a significant plastic bag tax (greater than $0.10 and up to $0.25 per bag) to incentivize the use of eco-friendly, re-usable shopping bags. Funds raised from this program can be used to fund environmental research and protection.
-- Look into ecoagriculture and laws implemented by California to combat drought
+- Look into ecoagriculture and laws implemented by California to combat drought.
+
+### Agriculture
+- Firmly regulate the use of antibiotics in livestock, with the goal of greatly reducing preventative antibiotic usage.
+- Look into effectiveness of current agricultural subsidies, including ethanol policies
