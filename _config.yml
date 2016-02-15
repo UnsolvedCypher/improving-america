@@ -1,7 +1,7 @@
 # Site settings
 description: A commonsense platform to help solve America's problems
 baseurl: "/improving-america" # the subpath of your site, e.g. /blog/
-url: "http://unsolvedcypher.github.io/improving-america" # the base hostname & protocol for your site 
+url: "http://unsolvedcypher.github.io/improving-america" # the base hostname & protocol for your site
 
 # User settings
 username: Improving America
@@ -10,8 +10,8 @@ user_title: A commonsense platform to help solve America's problems
 email: americanimprovement@matthewmcmillan.me
 twitter_username: UnsolvedCypher
 github_username:  UnsolvedCypher
-gplus_username:  
-disqus_username: 
+gplus_username:
+disqus_username:
 
 # Build settings
 markdown: kramdown
@@ -34,3 +34,6 @@ links:
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
+
+collections:
+  - issues
