@@ -5,6 +5,8 @@ permalink: "/education/"
 description: 'Providing everyone the opportunity to learn and succeed'
 ---
 
+A well-educated, highly-skilled population is necessary for ensuring a productive and competitive work force. Education is also essential in creating economic upward mobility, building a strong middle class, and protecting American jobs. We must make education a national priority and provide a robust public education to all students. 
+
 K-12
 ================
 
@@ -34,4 +36,15 @@ Right now, the US is suffering from a huge number of unwanted teen pregrancies a
 Higher Education
 ================
 
-Even more text
+### Free Public Universities
+
+To ensure that access to higher education is as wide-spread as possible, we must use tax dollars to fund public universities and make tuition free. Providing free higher education will bring prices down at private colleges, which will have to compete with free public universities. Free higher education will also alleviate issues with student debt, because all public school students will graduate debt-free.
+
+### Eliminate Unecessary Costs at Public Universities
+
+We believe that the cost of higher education can be reduced by cutting back on unecessary expenses: building new flashy buildings and sports facilities, maintaining huge bureaucracies of paid staff, and paying for expensive food options. We must find ways to better manage costs and provide a good education while avoiding unecessary expenditures.
+
+### Steer Students Away From Risky Colleges
+
+### Stop Using SAT and ACT Scores
+The SAT and ACT are expensive tests designed and administered by private organizations which make hundreds of millions of dollars from fees levied on students. The usage of private test scores for admission to public colleges and universities should end.
