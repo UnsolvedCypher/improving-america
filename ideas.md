@@ -109,6 +109,7 @@ Stefan's Fourth Proposal
 - Police Officers ("resource officers") should not be in schools. This creates a "fast-track" to prison for many people, especially African-American children, and breeds mistrust. Officers should only be used in extreme cases
 - Ban corporal punishment in schools. Corporal punishment promotes violence in society and is very damaging and disruptive to learning environments. It is damaging to physical and mental health and leaves students far worse off than before. We should look into ways of promoting Restorative Justice instead.
 - It appears that due to Common Core testing standards, younger and younger children must spend more time taking tests and learning in a rigid manner (see [article](http://www.npr.org/sections/ed/2016/01/08/462279629/why-kindergarten-is-the-new-first-grade)). Children, especially young children, must be given time to play, have fun, and explore subjects they like (this is important in developing creativity). 
+- Universal Pre-K. Emulate the French system. 
 
 ### Poverty
 - Reference: Low voter turnout among poor and people who benefit from federal/state aid programs [article](http://www.nytimes.com/2015/11/22/opinion/sunday/who-turned-my-blue-state-red.html?smid=fb-nytimes&smtyp=cur&_r=0)
