@@ -36,6 +36,17 @@ Right now, the US is suffering from a huge number of unwanted teen pregrancies a
 Higher Education
 ================
 
+Our fundamental truths concerning higher education:
+1. Wide-spread, affordable access to quality higher education is essential for building an advanced workforce, reversing income inequality, and preventing job losses to automation, AI, and globalisization.
+2. Everyone should be able to get a good education.
+3. A bachelor's or associate's degree is almost always necessary for skilled, good-paying jobs.
+4. Too many people cannot realize their full potential because they cannot afford college or go into debt doing so.
+5. Some colleges and for-profit institutions take advantage of students, tricking them into going deep into debt to pay for degrees that are essentially worthless.
+6. All but the very wealthy are squeezed by high college costs, which have risen enormously (even adjusted for inflation) over the past few decades.
+7. College debt is a leading factor in preventing young people from getting married, buying homes and cars, or saving for retirement.
+8. Our current system perpetuates and worsens inequality and creates an upward redistribution of wealth.
+9. Our current system does not give all students the education they need or our country the workers it needs.
+
 ### Free Public Universities
 
 To ensure that access to higher education is as wide-spread as possible, we must use tax dollars to fund public universities and make tuition free. Providing free higher education will bring prices down at private colleges, which will have to compete with free public universities. Free higher education will also alleviate issues with student debt, because all public school students will graduate debt-free.
